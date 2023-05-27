@@ -1,3 +1,8 @@
+# Movie Finder
+I min applikation kan användare klicka på olika filmer som finns antingen i menyn eller sökfältet. När användaren söker efter en film och klickar på den, visas detaljerad information om filmen tillsammans med en "Watched"-knapp och en "Trailer"-knapp, vilket jag tidigare nämnt. Genom att klicka på "Trailer"-knappen öppnas en popup som visar filmens trailer från YouTube. Genom att klicka på "Watched"-knappen läggs filmen till i en "Watched"-lista, som användaren kan nå genom att klicka på en "Watched"-knapp i det övre högra hörnet bredvid sökfältet.
+
+På "Watched"-delen av sidan visas de filmer som användaren har lagt till i listan. När användaren hovrar över en film i "Watched"-listan visas en "Remove"-knapp, som användaren kan trycka på för att ta bort filmen från "Watched"-listan.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
